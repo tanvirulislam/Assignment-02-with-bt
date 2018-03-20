@@ -1,0 +1,61 @@
+.header_border {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    min-height: 80px;
+    background-color: #9BC2F9;
+    border: 1px solid blue;
+
+}
+
+.header{
+    min-height: 60px;
+    margin-top: 10px;
+    background-color: #CCDEFF;
+    border: 1px solid red;
+    
+}
+
+.small_header{
+    min-height: 45px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: #CCDEFF;
+    border: 1px solid red;
+    
+}
+
+.airtical_feature{
+    min-height: 100px;
+    border: 1px solid red;
+    background-color: #CCDEFF;
+    margin: 10px 0;
+    
+}
+
+.artical_list{
+    min-height: 250px;
+    border: 1px solid red;
+    background-color: #CCDEFF;
+    margin-bottom: 10px;
+    
+    
+}
+
+.sidebar{
+    min-height: 100px;
+    margin-top: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
